@@ -1,4 +1,4 @@
-![](/profile/tech-open-solve-cover-first-sm.jpg)
+<img src="/profile/tech-open-solve-cover-first-sm.jpg">
 
 # Welcome to TechOpenSolve!
 

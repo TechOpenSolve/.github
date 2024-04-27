@@ -6,7 +6,7 @@ Thank you for your interest in contributing to TechOpenSolve! We welcome contrib
 
 ### 1.  Identify an Issue
 
-Start by exploring the repositories within TechOpenSolve to identify issues that resonate with you. Issues represent real-life challenges faced by individuals in the tech industry. If the issue exists you can move on to step 3. If the issue doe not exist continue with steps 2 and 3.
+Start by exploring the repositories within TechOpenSolve to identify issues that resonate with you. Issues represent real-life challenges faced by individuals in the tech industry. If the issue exists you can move on to step [4](#4-contributing). If the issue does not exist continue with steps 2 and 3.
 
 ### 2. Open a Discussion
 

@@ -1,3 +1,5 @@
+![TechOenSolve-cover](tech-open-solve-cover-first.jpg)
+
 # Welcome to TechOpenSolve!
 
 ## At TechOpenSolve, we introduce a new idea of treating the tech industry like an Open Source project.

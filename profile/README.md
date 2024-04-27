@@ -1,4 +1,4 @@
-![TechOenSolve-cover](tech-open-solve-cover-first.jpg)
+![TechOpenSolve-cover](tech-open-solve-cover-first.jpg)
 
 # Welcome to TechOpenSolve!
 

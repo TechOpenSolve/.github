@@ -1,4 +1,4 @@
-<img src="tech-open-solve-cover-first-sm.jpg">
+<!-- <img src="tech-open-solve-cover-first-sm.jpg"> -->
 
 # Welcome to TechOpenSolve!
 

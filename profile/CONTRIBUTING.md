@@ -10,7 +10,7 @@ Start by exploring the repositories within TechOpenSolve to identify issues that
 
 ### 2. Open a Discussion
 
-If you don't find an existing issue that addresses a particular challenge, open a discussion to suggest it. Engage with the community to gather feedback and refine the scope of the issue.
+If you don't find an existing issue that addresses a particular challenge, open a [Discussion of type Idea](https://github.com/orgs/TechOpenSolve/discussions) to suggest it. Engage with the community to gather feedback and refine the scope of the issue.
 
 ### 3. Document the Issue
 
@@ -24,7 +24,7 @@ Choose one of the following options to contribute:
 
 Recognize existing contributions made by others:
 
-To acknowledge and give credit to individuals, companies, or organizations that have positively contributed to resolving an issue, follow these steps:
+To acknowledge and give credit to individuals, companies, or organizations that have positively contributed with helpful actions that aid the process of addressing an issue, follow these steps:
 
 1. Navigate to the relevant issue where the contribution occurred.
 2. Add a comment below the issue acknowledging the contribution and providing details and links using the following template:
@@ -53,10 +53,9 @@ Replace the placeholders (e.g., [Name/Username], [Description of the contributio
 1. Contribute yourself by adding meaningful impact within real-life scenarios. Here are just a few possible suggestions, to help you get started: 
 
 - Implementing practical solutions in real-life scenarios.
+- Providing jobs, support, guidance, or resources to individuals or groups affected by the issue.
 - Writing blog posts, creating videos, or other ways of advocating for change within organizations or communities.
 - Collaborating with others to brainstorm and implement innovative approaches that bring a positive impact.
-- Providing jobs, support, guidance, or resources to individuals or groups affected by the issue.
-
 
 Of course there are many more options for making contributions. Feel free to explore other ways to contribute and make a difference in addressing real-life challenges within the tech industry.
 
@@ -65,13 +64,13 @@ Of course there are many more options for making contributions. Feel free to exp
 
 ### 5. Fact Checking
 
-Contributions will undergo fact checking and upon determining authenticity and if they are segnificant then they can move on to the next stage.
+Contributions will undergo fact checking and upon determining authenticity and if they are significant then they can move on to the next stage.
 
 ### 6. Pull Requests
 
+- Pull requests will be made only in the [**app**](https://github.com/TechOpenSolve/app) repo - this is the live version of our website.
 - Pull requests will not be marking an issue as resolved.
 - Each pull request will contain a commit featuring the contribution that has been left as a comment and went through fact checking.
-- Pull requests will be made only in the [**app**](https://github.com/TechOpenSolve/app) repo - this is the live version of our website.
 - Pull Request will be matched to the appropriate category and upon successful merge will be visualized on the website.
 
 The app repo has it's own CONTRIBUTING.md document so make sure you check it out before creating a Pull Request.

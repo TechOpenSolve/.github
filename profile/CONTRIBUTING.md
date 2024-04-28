@@ -50,7 +50,7 @@ Replace the placeholders (e.g., [Name/Username], [Description of the contributio
 
 #### Option 2: Make a Contribution
 
-Contribute yourself by adding meaningful impact within real-life scenarios. Here are just a few possible suggestions, to help you get started: 
+1. Contribute yourself by adding meaningful impact within real-life scenarios. Here are just a few possible suggestions, to help you get started: 
 
 - Implementing practical solutions in real-life scenarios.
 - Writing blog posts, creating videos, or other ways of advocating for change within organizations or communities.
@@ -59,6 +59,22 @@ Contribute yourself by adding meaningful impact within real-life scenarios. Here
 
 
 Of course there are many more options for making contributions. Feel free to explore other ways to contribute and make a difference in addressing real-life challenges within the tech industry.
+
+2. After completing your real life contribution use the 
+[Contribution Acknowledgement Template](#option-1-recognize-contributions) to document your contribution by leaving a comment.
+
+### 5. Fact Checking
+
+Contributions will undergo fact checking and upon determining authenticity and if they are segnificant then they can move on to the next stage.
+
+### 6. Pull Requests
+
+- Pull requests will not be marking an issue as resolved.
+- Each pull request will contain a commit featuring the contribution that has been left as a comment and went through fact checking.
+- Pull requests will be made only in the [**app**](https://github.com/TechOpenSolve/app) repo - this is the live version of our website.
+- Pull Request will be matched to the appropriate category and upon successful merge will be visualized on the website.
+
+The app repo has it's own CONTRIBUTING.md document so make sure you check it out before creating a Pull Request.
 
 
 

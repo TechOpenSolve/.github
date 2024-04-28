@@ -21,6 +21,7 @@ Repos in TechOpenSolve represent different categories of real-life issues encoun
 - [Hiring Process](https://github.com/TechOpenSolve/Hiring-Process)
 - [Work Environment](https://github.com/TechOpenSolve/Work-Environment) 
 - [Freelancing](https://github.com/TechOpenSolve/Freelancing)
+- [Community](https://github.com/TechOpenSolve/Community)
 - [Open Source](https://github.com/TechOpenSolve/Open-Source)
 
 and more.

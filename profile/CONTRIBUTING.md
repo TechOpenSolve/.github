@@ -34,10 +34,14 @@ To acknowledge and give credit to individuals, companies, or organizations that 
 
 - **Contributor:** [Name/Username]
 - **Contribution:** [Brief description of the action they took]
-- **How does it help:** [Provide details about how this contribution makes a positive impact]
-- **Link:** [Provide a link either to the contribution or the contributor (blog post, video, company page, user profile - most suitable link )]
+- **How does it help:** 
+[Provide details about how this contribution makes a positive impact]
+- **Link:** 
+[Provide a link -blog post, video, company page, user profile - most suitable link ]
 
-Thank you [Name/Username] and [any other individuals/companies/organizations involved] for your valuable contribution, this marks a big step in our efforts towards resolving the issue!
+Thank you, [Name/Username], and [any other individuals/companies/organizations involved], 
+for your valuable contribution. 
+This marks a significant step in our efforts towards resolving the issue!!
 
 ```
 Replace the placeholders (e.g., [Name/Username], [Description of the contribution], [Link], [Additional Details]) with the appropriate information.

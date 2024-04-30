@@ -64,4 +64,4 @@ Up to 10 people can be assigned to an issue at a time. Encouraging additional as
 TechOpenSolve is more than just a GitHub organization — it's a movement driven by the collective efforts of people committed to making meaningful improvements. Join us in our mission to address real-life challenges and create a more inclusive, supportive, and innovative tech industry for all.
 
 > [!NOTE] \
-> **[Get Involved]**(./profile/CONTRIBUTING.md)
+> [Get Involved](./profile/CONTRIBUTING.md)

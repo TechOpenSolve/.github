@@ -59,9 +59,8 @@ Only acknowledged contributors are eligible for assignment. Once assigned, the c
 
 Up to 10 people can be assigned to an issue at a time. Encouraging additional assignees is a goal, as it demonstrates collective efforts toward resolving the issue.
 
-## Let's Make Real-Life Better, Together
+## [Get Involved](./profile/CONTRIBUTING.md)
+### Let's Make Real-Life Better, Together
 
 TechOpenSolve is more than just a GitHub organization — it's a movement driven by the collective efforts of people committed to making meaningful improvements. Join us in our mission to address real-life challenges and create a more inclusive, supportive, and innovative tech industry for all.
 
-> [!NOTE] \
-> [Get Involved](./profile/CONTRIBUTING.md)

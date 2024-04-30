@@ -1,4 +1,4 @@
-<!-- <img src="/profile/tech-open-solve-cover-first-sm.jpg"> -->
+<!-- <img src="tech-open-solve-cover-first-sm.jpg"> -->
 
 # Welcome to TechOpenSolve!
 
@@ -47,13 +47,21 @@ Contributions towards resolving an issue can take various forms, including:
 - Collaborating with others to brainstorm and implement innovative approaches that bring a positive impact.
 - Providing jobs, support, guidance, or resources to individuals or groups affected by the issue.
 
-
 ## Recognizing Contributions
 
 Every individual, company, or organization that contributes positively toward resolving an issue is acknowledged and given credit for their efforts. Larger contributions will be featured on the TechOpenSolve website, showcasing the impactful work of those dedicated to improving the tech industry. Small actions that make a difference are also recognized and appreciated.
+
+## Assigning Issues 
+
+After a contributor has been acknowledged and given recognition in a comment, they can also leave a short comment on the issue. If they choose to do so, they can be assigned to the issue. 
+
+Only acknowledged contributors are eligible for assignment. Once assigned, the contributor is not required to take further action, as the assignment signifies their existing contribution. 
+
+Up to 10 people can be assigned to an issue at a time. Encouraging additional assignees is a goal, as it demonstrates collective efforts toward resolving the issue.
 
 ## Let's Make Real-Life Better, Together
 
 TechOpenSolve is more than just a GitHub organization — it's a movement driven by the collective efforts of people committed to making meaningful improvements. Join us in our mission to address real-life challenges and create a more inclusive, supportive, and innovative tech industry for all.
 
-## [Get Involved](./profile/CONTRIBUTING.md)
+> [!NOTE] \
+> **[Get Involved]**(./profile/CONTRIBUTING.md)

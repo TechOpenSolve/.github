@@ -49,7 +49,7 @@ Contributions towards resolving an issue can take various forms, including:
 
 ## Recognizing Contributions
 
-Every individual, company, or organization that contributes positively toward resolving an issue is acknowledged and given credit for their efforts. Larger contributions will be featured on the TechOpenSolve website, showcasing the impactful work of those dedicated to improving the tech industry. Small actions that make a difference are also recognized and appreciated.
+### Every individual, company, or organization that contributes positively toward resolving an issue is acknowledged and given credit for their efforts. Larger contributions will be featured on the [**TechOpenSolve**](https://techopensolve.com) website, showcasing the impactful work of those dedicated to improving the tech industry. Small actions that make a difference are also recognized and appreciated.
 
 ## Assigning Issues 
 
